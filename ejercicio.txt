@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contenido de txt en rama2
+=======
+ejercicio en main
+>>>>>>> origin/main
